@@ -1,7 +1,4 @@
-layout: page
-title: "Simple Jumping Game Demo"
-permalink: /simple-jumping-game/
-
+<!DOCTYPE html>
 <html>
 <head>
   <script type="text/javascript">
