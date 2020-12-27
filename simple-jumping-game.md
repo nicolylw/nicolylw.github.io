@@ -1,7 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <script type="text/javascript">
+</head>
+<body>
+<canvas style="border: 1px solid lightslategrey;" id="main" height="200" width="350"><script type="text/javascript">
   var canvas = document.getElementById('main');
 var ctx = canvas.getContext('2d');
 var jump = canvas.height - 20;
@@ -220,9 +221,7 @@ document.addEventListener('keyup', function(e) {
 	// }
 });
 </script>
-</head>
-<body>
-<canvas style="border: 1px solid lightslategrey;" id="main" height="200" width="350"><script type="text/javascript" src="game.js"></script></canvas>
+</canvas>
 </body>
 <footer></footer>
 </html>
