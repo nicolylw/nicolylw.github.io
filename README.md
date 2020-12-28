@@ -1,4 +1,5 @@
 # Demos
 
 [Simple jumping game](https://nicolylw.github.io/simple-jumping-game)
-[[images/jumping.png]]
+
+<img src="/images/jumping.png" width="320">
