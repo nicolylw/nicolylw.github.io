@@ -226,9 +226,10 @@ document.addEventListener('keyup', function(e) {
 <footer></footer>
 </html>
 
+# simple-jumping-game
+
 Github repository: [https://github.com/nicolylw/simple-jumping-game](https://github.com/nicolylw/simple-jumping-game)
 
-# simple-jumping-game
 Based on Chrome's dinosaur running game. My basic JS version consisting of the game's foundations built using &lt;canvas>.
 
 ## Features
