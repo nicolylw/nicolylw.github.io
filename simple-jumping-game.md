@@ -225,7 +225,7 @@ document.addEventListener('keyup', function(e) {
 </body>
 <footer></footer>
 </html>
-
+<br><br>
 # simple-jumping-game
 
 Github repository: [https://github.com/nicolylw/simple-jumping-game](https://github.com/nicolylw/simple-jumping-game)
